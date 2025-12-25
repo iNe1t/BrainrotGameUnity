@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PhysicsSections/Thermodynamics/ThermoScene.unity
     guid: dc2cacdc621ff264f933044219545de6
+  - enabled: 1
+    path: Assets/CircuitLevel/Scenes/CurcuitLevel.unity
+    guid: 5933e55b9b93c0f41a8cfe5c1dbaaf00
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
